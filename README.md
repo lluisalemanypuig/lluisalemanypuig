@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
     Languages: Rust
 
 - I've developed some utility apps, such as:
-  - An applet that updates the clue in a [Catalan](https://en.wikipedia.org/wiki/Catalan_language) word-building game, called [restalogic](https://www.vilaweb.cat/paraulogic/) (javascript).
+  - An applet that updates the clue in a [Catalan](https://en.wikipedia.org/wiki/Catalan_language) word-building [game](https://www.vilaweb.cat/paraulogic/), called [restalogic](https://www.vilaweb.cat/paraulogic/) (javascript).
   - A very simple Qt GUI to make QR codes, called [qr-encoder](https://github.com/lluisalemanypuig/qr-encoder) (C++)
   - A CLI application to help people keep track of their expenses, called [finances-manager](https://github.com/lluisalemanypuig/finances-manager). (Rust)
     
