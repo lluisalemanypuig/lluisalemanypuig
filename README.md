@@ -1,6 +1,6 @@
 👋 Hi, my name is Lluís!
 
-Here are some of the projects I've worked on:
+Here are some of the projects that you'll find in this github account.
 - The [Linear Arrangement Library](https://github.com/LAL-project/), a library of optimization algorithms of linear arrangements of graphs. In the same repository, you'll find tools that make LAL easier to use, such as a python wrapper and a GUI to convert datasets into a format that LAL understands. I'm open to collaborating with people interested in making new tools built on LAL or extending the existing tools.
 
   Languages: C++, python.
